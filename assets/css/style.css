@@ -40,11 +40,14 @@ header {
 }
 
 #hero-img {
+    
     background: url('/assets/images/hero_large.jpg') no-repeat center center;
     max-width: 100%;
     min-height: 600px;
     position: relative;
     background-size: cover;
+    display: block;
+    
 }
 #hero-img-text {
     position: absolute;
