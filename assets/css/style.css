@@ -14,7 +14,7 @@ body {
 }
 
 section {
-    background-color:grey;
+    background-color: slategrey;
     width: 100%;
     min-height: 20vh;
     margin-bottom: .5em;
@@ -43,21 +43,32 @@ p {
 header {
     max-width: 100%;
     background-color: darkgray;
+    min-height: 5vh;
+    /* position: fixed;
+    top: 0;
+    left: 0; */
 }
 #header-h1 {
     float: left;
-    margin: 0 .8em;
+    margin: .2em 3em .2em .5em;
     text-align: center;
 }
-
-#nav-links li {
-    display: inline;
+#nav-links {
+    overflow: hidden;
     list-style-type: none;
+
+}
+#nav-links li {
+    float: left;
+    
+    margin: 1em;
     
 }
 
 #nav-links a {
+    display: block;
     text-decoration: none;
+    text-align: center;
 }
 
 #hero {
