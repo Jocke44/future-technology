@@ -90,7 +90,7 @@ text-decoration: none;
 /*  Hero section */
 #hero-img {
     
-    background: url('../assets/images/hero_large.jpg') no-repeat center center;
+    background: url('assets/images/hero_large.jpg') no-repeat center center;
     background-size: cover;
     display: block;
     max-width: 100%;
