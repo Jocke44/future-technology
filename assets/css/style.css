@@ -39,7 +39,10 @@ h1, h2, p {
 
 p {
     font-size: 120%;
+
 }
+
+/* Header and navbar */
 header {
     max-width: 100%;
     background-color: darkgray;
@@ -48,9 +51,14 @@ header {
     top: 0;
     left: 0; */
 }
+
+header a {
+text-decoration: none;
+}
+
 #header-h1 {
-    float: left;
-    margin: .2em 3em .2em .5em;
+    /* float: left; */
+    margin: .2em auto;
     text-align: center;
 }
 #nav-links {
