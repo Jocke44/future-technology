@@ -86,7 +86,7 @@ text-decoration: none;
     max-width: 100%;
     background-color: darkkhaki;
 }
-
+/*  Hero section */
 #hero-img {
     
     background: url('/assets/images/hero_large.jpg') no-repeat center center;
@@ -113,7 +113,7 @@ text-decoration: none;
 #hero-img-text h2 {
     font-size: 1.8em;
 }
-
+/* Text section */
 .section-text {
     max-width: 100%;
     text-align: justify;    
