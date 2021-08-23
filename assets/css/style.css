@@ -9,7 +9,7 @@
 }
 
 body {
-    width: 70%;
+    width: 80%;
     margin:0 auto ;
 }
 
@@ -45,7 +45,7 @@ p {
 /* Header and navbar */
 header {
     max-width: 100%;
-    background-color: darkgray;
+    background-color: slategrey;
     min-height: 5vh;
     /* position: fixed;
     top: 0;
@@ -62,8 +62,11 @@ text-decoration: none;
     text-align: center;
 }
 #nav-links {
-    overflow: hidden;
+    display: flex;
+    justify-content: space-evenly;
     list-style-type: none;
+    overflow: hidden;
+    
 
 }
 #nav-links li {
@@ -98,7 +101,7 @@ text-decoration: none;
 }
 #hero-img-text {
     position: absolute;
-    top: 10%;
+    top: 15%;
     max-height: 600px;
     max-width: 300px;
     left: 55%;
