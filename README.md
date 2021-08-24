@@ -1,8 +1,8 @@
 # FUTURE OF TECHNOLOGIES
 
-This webpage is for those who like whats is store for technonlogy in the future. 
+This webpage is for those who like whats in store for technonlogy in the future. 
 
-The idea is to get people to think of what the future in technology has in store for 
+The possibilities of technology in the future.
 
 
 RESPONSIVNES PIC HERE
@@ -11,7 +11,11 @@ RESPONSIVNES PIC HERE
 
 ### Existing Features
 
-Navigation bar with an main header
+Navigation bar with an main heading and four links.
+
+Main content with one article and four sections.
+
+Footer 
 
 ## TESTING
 * HTML
