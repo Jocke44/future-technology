@@ -142,6 +142,35 @@ text-decoration: none;
     line-height: 1.3em;
 }
 
+.section-text a {
+    text-decoration: none;
+}
+
+/* Footer */
+
+footer {
+    background-color: #708090;
+    min-height: 10vh;
+    
+    }
+
+footer p {
+    color: #000;
+}
+
+footer a {
+    text-decoration: none;
+}
+
+#contact {
+    float: left;
+    text-align: center;
+}
+
+#main-article-from {
+    
+    text-align: center;
+}
 
 /* Media queries */
 
@@ -177,8 +206,9 @@ text-decoration: none;
 }
 
 /* Screens 400px and down */
-@media screen and (max-width 400px) {
+@media screen and (max-width: 400px) {
     #hero-image-text {
         left: 30%;
         top:  20%;   
     }
+}
