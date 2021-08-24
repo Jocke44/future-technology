@@ -43,6 +43,7 @@ p {
 }
 
 /* Header and navbar */
+
 header {
     max-width: 100%;
     background-color: slategrey;
@@ -88,6 +89,7 @@ text-decoration: none;
     background-color: darkkhaki;
 }
 /*  Hero section */
+
 #hero-img {
     
     background: url('../images/hero_large.jpg') no-repeat center center;
@@ -114,7 +116,8 @@ text-decoration: none;
 #hero-img-text h2 {
     font-size: 1.8em;
 }
-/* Text section */
+/* Main section */
+
 .section-text {
     max-width: 100%;
     text-align: justify;    
@@ -129,6 +132,10 @@ text-decoration: none;
     line-height: 1.3em;
 }
 
-
+@media screen and (max-width: 1600px) {
+    body {
+        width: 100%;
+    }
+}
 
 

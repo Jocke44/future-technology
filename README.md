@@ -14,14 +14,17 @@ RESPONSIVNES PIC HERE
 Navigation bar with an main header
 
 ## TESTING
-
+* HTML
+    * No testing yet
+* CSS
+    * No testing yet    
 
 
 ## DEPLOYMENT
 
 
 ## CREDITS
-
+* Text are taken from wikipedia Main, article: Emerging technologies
 
 ### CONTENT
 
