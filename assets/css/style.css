@@ -14,7 +14,7 @@ body {
 }
 
 section {
-    background-color: slategrey;
+    background-color: #708090;
     width: 100%;
     min-height: 40vh;
     margin-bottom: .5em;
@@ -45,7 +45,7 @@ p {
 
 header {
     max-width: 100%;
-    background-color: slategrey;
+    background-color: #708090;
     min-height: 5vh;
   }
 
@@ -85,15 +85,15 @@ text-decoration: none;
 }
 
 #nav-links a:hover {
-    background-color: darkgrey;
-    border: 1px solid darkgrey;
+    background-color: #A9A9A9;
+    border: 1px solid #A9A9A9;
     border-radius: 5px;
 }
 
 /*  Hero section */
 
 #hero {    
-    background-color: darkkhaki;
+    background-color: #BDB76B;
     max-width: 100%;
     padding: 0;
 }
