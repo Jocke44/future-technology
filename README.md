@@ -24,7 +24,7 @@ Navigation bar with an main header
 
 
 ## CREDITS
-* Text are taken from wikipedia Main, article: Emerging technologies
+* Text are taken from wikipedia https://en.wikipedia.org/wiki/Technology
 
 ### CONTENT
 
