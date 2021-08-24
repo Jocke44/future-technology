@@ -17,7 +17,8 @@ section {
     background-color: slategrey;
     width: 100%;
     min-height: 40vh;
-    margin-bottom: .5em;
+    /* margin-bottom: .5em; */
+    padding-bottom: .5em;
 }
 
 h1, h2 {
@@ -33,7 +34,7 @@ h2 {
 }
 
 h1, h2, p {
-    color: whitesmoke;
+    color: #fff;
 
 }
 
@@ -57,12 +58,12 @@ header a {
 text-decoration: none;
 }
 
-header a:hover {
+/* header h1:hover {
     background-color: darkgrey;
     border: 1px solid darkgrey;
     border-radius: 5px;
     padding: 2px;
-}
+} */
 
 #header-h1 {
     /* float: left; */
@@ -89,7 +90,7 @@ header a:hover {
     display: block;
     text-decoration: none;
     text-align: center;
-    color: whitesmoke;
+    color: #fff;
     font-size: 1.1em;
 }
 
@@ -151,10 +152,37 @@ header a:hover {
     line-height: 1.3em;
 }
 
+
+/* Media queries */
+
+/* Screens 1600px and down */
 @media screen and (max-width: 1600px) {
     body {
         width: 100%;
     }
 }
+/* Screens 500px and down */
+@media screen and (max-width: 500px) {
+    h1 {
+        font-size: 220%;
+    }
 
+    #hero-img-text {
+        left: 30%;
+    }
+
+    #section-text h2 {
+        max-width: 100%;
+        margin: 1em;
+        line-height: 2em;
+        text-align: center;
+    }
+    
+    .section-text p {
+        margin: 1em;
+        max-width: 100%;
+        line-height: 1.3em;
+
+    }
+}
 
