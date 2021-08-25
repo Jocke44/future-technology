@@ -33,3 +33,6 @@ Footer
 ### CONTENT
 
 ### MEDIA
+
+* Picture from shutterstock.com
+ * https://www.shutterstock.com/image-illustration/connection-lines-around-earth-globe-futuristic-579332875
