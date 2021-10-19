@@ -204,10 +204,10 @@ footer a {
     }
 }
 
-/* Screens 400px and down */
-@media screen and (max-width: 400px) {
+/*  Screens 400px and down */
+/* @media screen and (max-width: 400px) {
     #hero-image-text {
         left: 30%;
         top:  20%;   
     }
-}
+} */
