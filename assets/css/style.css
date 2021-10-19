@@ -64,7 +64,7 @@ text-decoration: none;
     justify-content: space-evenly;
     list-style-type: none;
     overflow: hidden;
-    
+}    
 
 
 
@@ -182,6 +182,11 @@ footer a {
     #hero-img-text {
         left: 30%;
     }
+
+    #nav-links {
+        display: block;
+        
+    } 
 
     #section-text h2 {
         max-width: 100%;
