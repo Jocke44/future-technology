@@ -15,7 +15,7 @@ Navigation bar with an main heading and four links.
 
 Main content with one article and four sections.
 
-Footer 
+Footer with contact information and credits, where the are text taken from
 
 ## TESTING
 * HTML
@@ -25,7 +25,7 @@ Footer
 
 
 ## DEPLOYMENT
-
+Depolyed to github 
 
 ## CREDITS
 * Text are taken from wikipedia https://en.wikipedia.org/wiki/Technology

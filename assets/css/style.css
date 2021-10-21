@@ -33,7 +33,7 @@ h2 {
     font-size: 180%;
 }
 
-h1, h2, p {
+h1, h2, h3, p {
     color: #fff;
 }
 
@@ -142,28 +142,31 @@ text-decoration: none;
 /* Footer */
 
 footer {
+    display: flex;
     background-color: #708090;
     min-height: 10vh;
-    
+    margin: 0 auto;
+    max-width: 100%;
+    justify-content: space-evenly;
     }
 
-footer p {
+/* footer p {
     color: #000;
-}
+} */
 
 footer a {
     text-decoration: none;
 }
 
-#contact {
-    float: left;
+/* #contact {
+    margin: 0 auto;
     text-align: center;
 }
 
 #main-article-from {
     
     text-align: center;
-}
+} */
 
 /* Media queries */
 
