@@ -5,7 +5,7 @@ This webpage is for those who like whats in store for technonlogy in the future.
 The possibilities of technology in the future.
 
 
-RESPONSIVNES PIC HERE
+![alt text](/assets/images/responsive.png)
 
 ## FEATURES
 
@@ -16,6 +16,8 @@ Sticky navigation bar with an main heading and four links.
 Main content with one article and four sections.
 
 Footer with contact information and credits, where the are text taken from
+### Future Features
+Fix navbar from changing height when hovering over links
 
 ## TESTING
 * HTML
@@ -25,7 +27,7 @@ Footer with contact information and credits, where the are text taken from
 
 
 ## DEPLOYMENT
-Depolyed to github 
+Depolyed to github https://jocke44.github.io/future-technology/
 
 ## CREDITS
 * Text are taken from wikipedia https://en.wikipedia.org/wiki/Technology
