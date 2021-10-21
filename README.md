@@ -11,7 +11,7 @@ RESPONSIVNES PIC HERE
 
 ### Existing Features
 
-Navigation bar with an main heading and four links.
+Sticky navigation bar with an main heading and four links.
 
 Main content with one article and four sections.
 
@@ -19,9 +19,9 @@ Footer with contact information and credits, where the are text taken from
 
 ## TESTING
 * HTML
-    * No testing yet
+    * Tested at https://validator.w3.org/ with one warning about Article lacks heading at line 42.
 * CSS
-    * No testing yet    
+    * Tested at https://jigsaw.w3.org/ width no erros.    
 
 
 ## DEPLOYMENT
@@ -31,7 +31,7 @@ Depolyed to github
 * Text are taken from wikipedia https://en.wikipedia.org/wiki/Technology
 
 ### CONTENT
-
+* Content is taken from a wikipedia article about technology
 ### MEDIA
 
 * Picture from shutterstock.com
