@@ -15,9 +15,10 @@ Sticky navigation bar with an main heading and four links.
 
 Main content with one article and four sections.
 
-Footer with contact information and credits, where the are text taken from
-### Future Features
-Fix navbar from changing height when hovering over links
+Footer with contact information and credits, where the are text taken from.
+### Future Updates
+Fix navbar from changing height when hovering over links.
+Fix links in Some Belive section and footer
 
 ## TESTING
 * HTML

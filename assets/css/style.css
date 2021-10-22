@@ -52,7 +52,7 @@ header {
     position: sticky;
     top: 0;
     z-index: 1;
-    border-bottom: 1px solid #fff ;
+    border-bottom: 2px solid #fff ;
   }
 
 header a {
@@ -121,6 +121,7 @@ text-decoration: none;
     margin-top: 2em;
 }
 
+
 #hero-img-text h2 {
     font-size: 1.8em;
 }
@@ -128,7 +129,9 @@ text-decoration: none;
 
 .section-text {
     max-width: 100%;
-    text-align: justify;    
+    text-align: justify;
+    padding-top: 6em;
+    min-height: 50vh; 
 }
 .section-text h2 {
     max-width: 100%;
@@ -178,8 +181,8 @@ footer h3 {
         width: 100%;
     }
 }
-/* Screens 500px and down */
-@media screen and (max-width: 500px) {
+/* Screens 600px and down */
+@media screen and (max-width: 600px) {
     h1 {
         font-size: 220%;
     }
@@ -192,7 +195,14 @@ footer h3 {
     #nav-links {
         display: block;
         
-    } 
+    }
+
+    .section-text {
+        max-width: 100%;
+        text-align: justify;
+        padding-top: 12em;
+        /* min-height: 100vh;  */
+    }
 
     #section-text h2 {
         max-width: 100%;
