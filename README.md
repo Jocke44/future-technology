@@ -25,11 +25,16 @@ Fix links in Some Belive section and footer
 * HTML
     * Tested at https://validator.w3.org/ with one warning about Article lacks heading at line 42.
 * CSS
-    * Tested at https://jigsaw.w3.org/ width no erros.    
+    * Tested at https://jigsaw.w3.org/ width no erros.  
 
 
 ## DEPLOYMENT
-Depolyed to github https://jocke44.github.io/future-technology/
+* The site is deployed to github. The steps to deploy are.
+    * In the gitgub repo, goto Settings tab.
+    * Goto Code and automation tab and then selcect Pages.
+    * Check the Source, check its says main on Branch tab
+    * When main branch been selected the you get a link for the live website.
+* Depolyed to github https://jocke44.github.io/future-technology/
 
 ## CREDITS
 * Text are taken from wikipedia https://en.wikipedia.org/wiki/Technology
