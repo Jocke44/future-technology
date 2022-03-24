@@ -6,7 +6,7 @@ The possibilities of technology in the future.
 
 
 ![alt text](/assets/images/responsive.png)
-Mockup from Am I Responsive [Mockup] (http://ami.responsivedesign.is/?url=https://jocke44.github.io/future-technology/).
+Mockup from Am I Responsive ![Mockup] (http://ami.responsivedesign.is/?url=https://jocke44.github.io/future-technology/).
 
 ## FEATURES
 
