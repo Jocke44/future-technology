@@ -23,6 +23,7 @@ section {
 
 h1, h2 {
 font-family: 'Share Tech Mono', sans-serif;
+text-decoration: underline;
 }
 
 h1 {
