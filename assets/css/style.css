@@ -22,8 +22,8 @@ section {
 }
 
 h1, h2 {
-font-family: 'Share Tech Mono', sans-serif;
-text-decoration: underline;
+    font-family: 'Share Tech Mono', sans-serif;
+    text-decoration: underline;
 }
 
 h1 {
@@ -90,6 +90,7 @@ text-decoration: none;
     border-radius: 5px;
 }
 
+
 /*  Hero section */
 
 #hero {    
@@ -149,6 +150,14 @@ text-decoration: none;
 
 .section-text a {
     text-decoration: none;
+}
+
+.section-2 {
+    background-color: #708080;
+    width: 100%;
+    min-height: 40vh;
+    margin-bottom: .5em;
+    padding-bottom: .5em;
 }
 
 /* Footer */
