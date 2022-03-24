@@ -6,7 +6,7 @@ The possibilities of technology in the future.
 
 
 ![alt text](/assets/images/responsive.png)
-![Mockup] (http://ami.responsivedesign.is/?url=https://jocke44.github.io/future-technology/).
+Mockup http://ami.responsivedesign.is/?url=https://jocke44.github.io/future-technology/
 
 ## FEATURES
 
@@ -33,7 +33,7 @@ Fix links in Some Belive section and footer
     * In the gitgub repo, goto Settings tab.
     * Goto Code and automation tab and then selcect Pages.
     * Check the Source, check its says main on Branch tab
-    * When main branch been selected the you get a link for the live website.
+    * When main branch been selected then you get a link for the live website.
 * Depolyed to github https://jocke44.github.io/future-technology/
 
 ## CREDITS
