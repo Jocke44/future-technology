@@ -126,13 +126,19 @@ header a {
 }
 
 #hero-img {
-    background: url('../images/hero_large.jpg') no-repeat center center;
-    background-size: cover;
     display: block;
     max-width: 100%;
-    min-height: 600px;
     position: relative;
-}
+  }
+  
+
+#hero-img picture img {
+    width: 100%;
+    height: auto;
+    display: block;
+    object-fit: cover;
+    min-height: 600px;
+  }
 
 #hero-img::before {
     content: "";
