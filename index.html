@@ -8,6 +8,8 @@
     <meta name="description" content="Article on the Future of Technology">
     <meta name="keywords" content="future, tech, technology, article">
     <title>Future of Technology</title>
+    <!-- Place in <head> -->
+    <link rel="preload" as="image" href="assets/images/hero_large.webp" type="image/webp">
     <link rel="stylesheet" href="assets/css/style.css">
 </head>
 
@@ -32,10 +34,12 @@
             <section id="hero">
                 <figure id="hero-img">
                     <picture>
-                        <source srcset="images/hero_large.webp" type="image/webp">
-                        <img src="images/hero_large.jpg" alt="Hero background">
-                    </picture>      
+                        <source srcset="assets/images/hero_small.webp" media="(max-width: 600px)" type="image/webp">
+                        <source srcset="assets/images/hero_large.webp" type="image/webp">
+                        <img src="assets/images/hero_large.jpg" alt="Hero background">
+                    </picture>
                 </figure>
+                  
                 <div id="hero-img-text">
                     <h2>Theories of Technology</h2>
                     <p>Technology predictions are often based on contemporary science and innovation, but the future remains uncertain.</p>
